@@ -1,5 +1,6 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "trashOption": "local"
 }

@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "60e72f2343a6ee41",
+        "id": "8bf0491f21a7d35b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "证券基础/金融市场概述.md",
+            "file": "第四节 金融市场的分类.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -53,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 178
   },
   "right": {
     "id": "7c38e7bad008b4c8",
@@ -69,14 +70,47 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证券基础/金融市场概述.md",
-                "collapseAll": false,
+                "file": "第四节 金融市场的分类.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "35be690303e0b7e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第四节 金融市场的分类.md"
+              }
+            }
+          },
+          {
+            "id": "2f0249f5d01216b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02cc74dbe1aa55bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第四节 金融市场的分类.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,13 +118,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312,
-    "collapsed": true
+    "width": 352
   },
-  "active": "60e72f2343a6ee41",
+  "active": "8bf0491f21a7d35b",
   "lastOpenFiles": [
+    "第四节 金融市场的分类.md",
+    "债权市场.md",
+    "债务工具.md",
+    "优先股.md",
+    "权益市场.md",
+    "货币市场.md",
     "证券基础/金融市场概述.md",
-    "法律基础/2 公司法.md",
-    "法律基础/1 证券市场法律法规体系.md"
+    "第三节 直接融资与间接融资的概念 ，特点和分类.md",
+    "第一节 金融市场的概念.md",
+    "资本市场.md"
   ]
 }
