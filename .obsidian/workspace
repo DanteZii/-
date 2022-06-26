@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "证券基础/金融市场概述/金融市场概述.md",
-            "mode": "source",
+            "file": "证券基础/金融市场概述/第四节 金融市场的分类.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -23,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "第五节 全球金融市场.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第五节 全球金融市场.md",
+                "file": "证券基础/金融市场概述/第四节 金融市场的分类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第五节 全球金融市场.md"
+                "file": "证券基础/金融市场概述/第四节 金融市场的分类.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第五节 全球金融市场.md",
+                "file": "证券基础/金融市场概述/第四节 金融市场的分类.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,17 +133,17 @@
     "direction": "horizontal",
     "width": 352
   },
-  "active": "93354c6e4e24b9c3",
+  "active": "8bf0491f21a7d35b",
   "lastOpenFiles": [
-    "第五节 全球金融市场.md",
-    "证券基础/金融市场概述/金融市场概述.md",
-    "证券基础/金融市场概述/第一节 金融市场的概念.md",
     "证券基础/金融市场概述/第四节 金融市场的分类.md",
-    "证券基础/金融市场概述/第五节 全球金融市场.md",
+    "证券基础/金融市场概述/第一节 金融市场的概念.md",
+    "证券基础/金融市场概述/第三节 直接融资与间接融资的概念 ，特点和分类.md",
     "证券基础/金融市场概述/非证券金融市场.md",
     "证券基础/金融市场概述/证券市场.md",
-    "证券基础/金融市场概述/衍生品市场.md",
+    "第五节 全球金融市场.md",
+    "证券基础/金融市场概述/一级市场.md",
     "证券基础/金融市场概述/现货市场.md",
-    "证券基础/金融市场概述/场外交易市场.md"
+    "证券基础/金融市场概述/二级市场.md",
+    "证券基础/金融市场概述/金融市场概述.md"
   ]
 }
